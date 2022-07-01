@@ -11,10 +11,16 @@ Regular Expressions, also known as Regex are patterns used to match character co
 ### Table of Contents
 
 - [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
 - [The OR Operator](#the-or-operator)
 - [Flags](#flags)
 - [Character Escapes](#character-escapes)
+
+### Grouping Constructs
+A part of a pattern can be enclosed in parentheses (...) . This is called a “capturing group”. That has two effects: It allows to get a part of the match as a separate item in the result array.
+
+
+
+
