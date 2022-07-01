@@ -12,8 +12,6 @@ Regular Expressions, also known as Regex are patterns used to match character co
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
 - [Character Escapes](#character-escapes)
 
 ### Grouping Constructs
@@ -28,5 +26,8 @@ A bracket expression represents a character set via a list of characters enclose
  `\s`: Matches whitespace character.
  `\t`: Matches a tab.
 
+ ### Character Escapes
+You can do very specific and detailed searches . For example if you use the following `\.`.
+The `\.` allows us to find not just any character, but with just a dot you can access data inside that folder.
 
 
