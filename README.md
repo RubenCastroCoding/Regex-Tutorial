@@ -21,6 +21,8 @@ Regular Expressions, also known as Regex are patterns used to match character co
 ### Grouping Constructs
 A part of a pattern can be enclosed in parentheses (...) . This is called a “capturing group”. That has two effects: It allows to get a part of the match as a separate item in the result array.
 
+### Bracket Expressions
+A bracket expression represents a character set via a list of characters enclosed by the square brackets: '[' and ']'  If it matches data character from the list to match the target string.
 
 
 
