@@ -8,5 +8,13 @@ This method is ok most of the time but it does have some flaws. What if you need
 
 Regular Expressions, also known as Regex are patterns used to match character combinations in strings. Regex lets you search and manupilate text strings. Regex is good because it saves you alot of time when writing code.
 
-###
+### Table of Contents
 
+- [Anchors](#anchors)
+- [Quantifiers](#quantifiers)
+- [Grouping Constructs](#grouping-constructs)
+- [Bracket Expressions](#bracket-expressions)
+- [Character Classes](#character-classes)
+- [The OR Operator](#the-or-operator)
+- [Flags](#flags)
+- [Character Escapes](#character-escapes)
