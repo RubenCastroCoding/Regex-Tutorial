@@ -9,8 +9,6 @@ This method is ok most of the time but it does have some flaws. What if you need
 Regular Expressions, also known as Regex are patterns used to match character combinations in strings. Regex lets you search and manupilate text strings. Regex is good because it saves you alot of time when writing code.
 
 ### Table of Contents
-
-- [Anchors](#anchors)
 - [Grouping Constructs](#grouping-constructs)
 - [Bracket Expressions](#bracket-expressions)
 - [Character Classes](#character-classes)
@@ -23,6 +21,12 @@ A part of a pattern can be enclosed in parentheses (...) . This is called a “c
 
 ### Bracket Expressions
 A bracket expression represents a character set via a list of characters enclosed by the square brackets: '[' and ']'  If it matches data character from the list to match the target string.
+
+### Character Classes
+ Character classes can tell the difference letters and digits and much more.
+ Here are 2 examples of character classes:
+ `\s`: Matches whitespace character.
+ `\t`: Matches a tab.
 
 
 
